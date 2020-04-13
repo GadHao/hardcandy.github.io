@@ -16,10 +16,10 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 author: true
 name: 'GuoHao'
 NickName: 'hahabi'
-webtitle: '彩虹家'
+webtitle: 'bb'
 bio: 'Cola'
 about: true
-aboutyou: '喜欢编程的普通人'
+aboutyou: 'aa'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
