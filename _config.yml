@@ -16,16 +16,16 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 author: true
 name: 'GuoHao'
 NickName: 'hahabi'
-webtitle: 'bb'
+webtitle: 'Rainbow'
 bio: 'Cola'
 about: true
-aboutyou: 'aa'
+aboutyou: '一个喜欢编程的普通人'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
-  mail: 'guohao_ad@foxmail@gmail.com'
+  mail: 'guohao_ad@foxmail.com'
   weixin: '' # 你的微信二维码存放的地址
   qq: 'http://wpa.qq.com/msgrd?v=3&uin='524472212'&site=qq&menu=yes' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
   github: 'https://github.com/GadHao'
