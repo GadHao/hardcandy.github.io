@@ -19,7 +19,7 @@ NickName: 'hahabi'
 webtitle: '彩虹家'
 bio: 'Cola'
 about: true
-aboutyou: '一个普通人'
+aboutyou: '喜欢编程的普通人'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
@@ -27,18 +27,9 @@ SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
   mail: 'guohao_ad@foxmail@gmail.com'
   weixin: '' # 你的微信二维码存放的地址
-  qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
-  github: ''
-  Codepen: ''
-  weibo: ''
-  instagram: ''
-  Twitter: ''
-  Dribbble: ''
-  Facebook: ''
-  Google: ''
-  zhihu: ''
-  juejin: ''
-  twitch: ''
+  qq: 'http://wpa.qq.com/msgrd?v=3&uin='524472212'&site=qq&menu=yes' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
+  github: 'https://github.com/GadHao'
+  zhihu: 'https://www.zhihu.com/people/zhong-dog'
 
 # 分页
 paginate: 2
