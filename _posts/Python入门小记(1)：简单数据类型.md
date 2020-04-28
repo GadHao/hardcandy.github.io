@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'Python入门小记(1)：简单数据类型'
+date: 2020-04-29
+author: HANABI
+color: rgb(255,210,32)
+cover: ''
+tags: Python
+---
+# Python入门小记(1)：简单数据类型
+
+> 开始学习Python，买了好久的书终于派上用场，虽然Python语法简单，但想从基础了解Python，所以一步一步来，今天先开始了解简单的数据类型以及相关函数，把重点地方做个小记
+
+1.引号，在Python中，可以用单引号或者双引号括起整个字符串，这使得字符串中可以包含引号和撇号
+
+```python
+print("这是一个字符串")  # 这是一个字符串
+print('这也是一个字符串')  # 这也是一个字符串
+print("It's a string")  # It's a string
+print('这是一个"字符串"')  # 这是一个"字符串"
+```
+
+2.修改字符串的大小写，除了熟悉的 *string.upper()*，*string.lower()*之外，还有一个有用的方法叫做*string.title()*，它可以让字符串的每个单词首字母大写，而其它部分变为小写
+
+```python
+print("love song,lOvE SONG,love sOng".title())  # Love Song,Love Song,Love Song
+```
+
+3.去掉字符串开头，结尾，两边的括号，分别用
+
+```python
+print(" 这是一个字符串".lstrip())  # 这是一个字符串
+print("这是一个字符串 ".rstrip())  # 这是一个字符串
+print(" 这是一个字符串 ".strip())  # 这是一个字符串
+```
+
