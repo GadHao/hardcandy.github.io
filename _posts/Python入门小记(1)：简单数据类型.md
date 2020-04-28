@@ -4,8 +4,8 @@ title: 'Python入门小记(1)：简单数据类型'
 date: 2020-04-29
 author: HANABI
 color: rgb(255,210,32)
-cover: ''
-tags: Python
+cover: '../assets/test.png'
+tags: jekyll
 ---
 # Python入门小记(1)：简单数据类型
 
