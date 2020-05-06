@@ -5,7 +5,7 @@ date: 2020-04-13
 author: HANABI
 color: rgb(255,210,32)
 cover: '../assets/test.png'
-tags: jekyll
+tags: Jekyll
 ---
 # Welcome to my blog
 
