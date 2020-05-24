@@ -46,6 +46,26 @@ tags: Python
         print(f"{k}  {v}次")
 ```
 
+## 运行结果
+
+```
+广西人才网IT岗统计结果(词频)
+总岗位数量:2233
+java  665次
+javascript  493次
+sql  454次
+css  446次
+php  340次
+js  263次
+c#  202次
+c++  154次
+python  142次
+go  13次
+vb  6次
+ruby  6次
+swift  5次
+```
+
 ## 总结
 
 这次的代码其实很早就写好了，但是一直想不到有什么特别值得详细写的地方，加上最近比较忙，就没有更新这篇上去。
@@ -57,4 +77,4 @@ tags: Python
 ## Python小工具合集
 
 因为用Python来写一些小工具或者短时间使用的工具实在太方便了，最近就写了好几个，建了一个*repository*，之后会把这些小工具都更新到这里，供个人备忘以及大家参考
-https://github.com/GadHao/python-little-tools
+[python-little-tools](https://github.com/GadHao/python-little-tools)
