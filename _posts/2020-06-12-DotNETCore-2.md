@@ -4,7 +4,7 @@ title: '.NET Core前后端分离(1) - Swagger的使用'
 date: 2020-06-12
 author: HANABI
 color: rgb(91,47,107)
-tags: .NET Core
+tags: [.NET Core]
 ---
 
 # .NET Core前后端分离(1) - Swagger的使用

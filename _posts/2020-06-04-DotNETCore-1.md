@@ -4,7 +4,7 @@ title: '部署Vue+.NET Core前后端分离项目中遇到的问题'
 date: 2020-06-04
 author: HANABI
 color: rgb(35,169,242)
-tags: .NET Core
+tags: [.NET Core]
 ---
 
 # 部署Vue+.NET Core前后端分离项目中遇到的问题
