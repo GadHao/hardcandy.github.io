@@ -85,9 +85,9 @@ var xmlPath = Path.Combine(AppContext.BaseDirectory, "Hanabi.Blog.xml");
 setup.IncludeXmlComments(xmlPath, true);
 ```
 
-重新生成项目并运气,此时可以看到API说明中已经出现了添加的注释内容
+重新生成项目并运行,此时可以看到API说明中已经出现了添加的注释内容
 
-![](../assets/img/dotnetcore-3.jpg)
+![](/assets/img/dotnetcore-3.jpg)
 
 
 
