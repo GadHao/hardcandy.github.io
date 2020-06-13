@@ -19,7 +19,7 @@ tags: .NET Core
 
 ### 在*Startup.cs*文件的*ConfigureServices*函数中添加服务:
 
-```CSharp
+```c#
 // 类中定义常量,方便后续编辑
 private const string ApiVersion = "V1.0";
 
@@ -44,7 +44,7 @@ services.AddSwaggerGen(setup =>
 
 ### 在*Startup.cs*文件的*Configure*函数中启动HTTP管道中间件:
 
-```CSharp
+```c#
 public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
 {
     if (env.IsDevelopment())
@@ -79,7 +79,7 @@ public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
 在项目名称处点击右键-属性-生成，勾选上XML文档文件，并设置好文档的相对路径，对项目进行生成，发现项目下已经出现了对应的注释XML文档，在错误列表中会出现很多警告，根据警告类型同样在项目的属性-生成中添加取消显示警告*1591*
 
 此时,在Controller代码中加上注释,并在*ConfigureServices*函数的Swagger服务设置中添加内容:
-```CSharp
+```c#
 // 设置接口注释信息
 var xmlPath = Path.Combine(AppContext.BaseDirectory, "Hanabi.Blog.xml");
 setup.IncludeXmlComments(xmlPath, true);
