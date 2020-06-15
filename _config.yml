@@ -31,17 +31,8 @@ SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagr
   mail: 'mailto:guohao_ad@foxmail.com'
   weixin: '/assets/WeChat.JPG' # 你的微信二维码存放的地址
   qq: '/assets/QQ.JPG' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='524472212'&site=qq&menu=yes
-  github: ''
-  Codepen: ''
-  weibo: ''
-  instagram: ''
-  Twitter: ''
-  Dribbble: ''
-  Facebook: ''
-  Google: ''
-  zhihu: ''
-  juejin: ''
-  twitch: ''
+  github: 'https://github.com/GadHao'
+  zhihu: 'https://www.zhihu.com/people/zhong-dog'
 
 # 分页
 paginate: 5
