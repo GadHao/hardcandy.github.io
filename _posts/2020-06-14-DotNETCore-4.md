@@ -7,8 +7,6 @@ color: rgb(91,47,107)
 tags: [.NET Core]
 ---
 
-# .NET Core前后端分离(3) - ORM的选用(SqlSugar) + Code First初始化数据库
-
 > 经过之前的步骤，已经设置好了配置文件的读取方法，现在让我们来设置ORM，这里我们选用[SqlSugar](https://github.com/sunkaixuan/SqlSugar)作为本项目的ORM
 
 ## 构建Model层
