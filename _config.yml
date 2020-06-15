@@ -22,8 +22,8 @@ NickName: 'hahabi'
 webtitle: 'Rainbow'
 bio: 'Cola'
 about: true
-aboutyou: '一个喜欢编程的普通人'
-portraits: '/assets/profile.jpeg' # your portraits image file path
+aboutyou: '透过本质看现象'
+portraits: '/assets/profile.jpg' # your portraits image file path
 
 # SNS
 SNS: true
