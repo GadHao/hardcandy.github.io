@@ -173,7 +173,7 @@ public UserRoleRepository(IUnitOfWork unitOfWork) : base(unitOfWork)
 
 定义完所有的接口，并实现完它们的函数之后，可以看看我们各个项目的依赖关系
 
-![](../assets/img/dotnetcore-8.JPG)
+![](/assets/img/dotnetcore-8.JPG)
 
 先定义了仓储层和服务层的接口层，它们需要用到对应的*Model*类型，所以都引用了*Model层*
 
