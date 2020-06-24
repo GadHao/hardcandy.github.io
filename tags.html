@@ -24,7 +24,7 @@ description:
             {% for post in tag[1] %}
                 {% if post.hidden != true %}
                     <a class="tag-post" href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-                {% endfor %}
+                {% endif %}
             {% endfor %}
         </li>
 
