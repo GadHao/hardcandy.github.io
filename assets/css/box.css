@@ -1,4 +1,5 @@
 /* 盒模型相关内容 */
+
 div#box {
     padding: 200px;
     /* 后面设置的内边距，会覆盖掉之前设置的 */
@@ -21,4 +22,37 @@ div#box {
     font-size: 1.5em;
     /* 设置文本居中 */
     text-align: center;
+}
+
+/* div与span的使用，一些属性的快捷写法,伪类的使用 */
+
+/* div的所有子孙<p>元素的样式 */
+
+div p {
+    /* 边距的快捷写法，从上开始顺时针，也就是上，右，下，左的顺序 */
+    margin: 0px 100px 0px 100px;
+    /* 或者像这样，代表上下，左右 */
+    padding: 0px 30px;
+}
+
+span.important {
+    font-weight: bold;
+}
+
+/* 光标悬停 */
+
+div a:hover {
+    background-color: brown;
+}
+
+/* 未访问的链接 */
+
+div a:link {
+    background-color: lightskyblue;
+}
+
+/* 已访问的链接 */
+
+div a:link {
+    background-color: deeppink;
 }
